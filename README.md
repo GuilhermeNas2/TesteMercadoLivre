@@ -1,7 +1,7 @@
 <h1 align="center"> Carrinho de compras feito com ReactJS </h1>
 
 <p align="center">
-  <img alt="imagem do projeto" src="">
+  <img alt="imagem do projeto" src="./.github/pic1.png">
 </p>
 
 # 🚀 TECNOLOGIAS 
